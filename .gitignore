@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.venv/
+env/
+.env
+
+# Output and Cache
+out/
+cache/
+
+# IDE and OS specific
+.idea/
+.vscode/
+*.swp
+*~
+.DS_Store
+
+# User-specific files
+# Прокси-серверы часто являются приватной информацией.
+# Рекомендуется не хранить их в репозитории.
+# Создайте proxies.txt.example с примером формата.
+proxies.txt
