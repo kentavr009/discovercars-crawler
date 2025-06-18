@@ -97,3 +97,4 @@ python3 crawler.py
 ## Лицензия
 
 Этот проект распространяется под лицензией MIT. Подробности смотрите в файле [LICENSE](LICENSE).
+Парсер написан автором блога [autoparse.tech](autoparse.tech)
